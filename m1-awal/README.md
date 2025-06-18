@@ -2,17 +2,6 @@
 
 Ini adalah program Go paling sederhana yang biasanya digunakan sebagai langkah awal dalam belajar bahasa pemrograman Golang.
 
-## 📄 Kode Program
-
-```go
-package main
-
-import "fmt"
-
-func main() {
-	fmt.Println("Hello World")
-	fmt.Println("Hai, I'm Agus Furqon")
-
 ## 🧠 Penjelasan Kode
 Mari kita bahas bagian-bagian kode di atas:
 
@@ -34,3 +23,16 @@ Dalam contoh ini, dua baris teks akan dicetak:
 
 Hello World
 Hai, I'm Agus Furqon
+
+## 📄 Kode Program
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello World")
+	fmt.Println("Hai, I'm Agus Furqon")
+}
+
