@@ -13,7 +13,7 @@ func main() {
 	fmt.Println("Hello World")
 	fmt.Println("Hai, I'm Agus Furqon")
 
-🧠 Penjelasan Kode
+## 🧠 Penjelasan Kode
 Mari kita bahas bagian-bagian kode di atas:
 
 package main
